@@ -19,6 +19,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 **/__pycache__
+ uv.lock
 
 # Ignore Python version
 .python-version
