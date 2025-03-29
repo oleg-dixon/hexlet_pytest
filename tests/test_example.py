@@ -38,3 +38,4 @@ def test_pop_with_empty_stack():
     # если внутри блока вызовется исключение, то тест будет пройден
     with pytest.raises(IndexError):
         stack.pop()
+        
